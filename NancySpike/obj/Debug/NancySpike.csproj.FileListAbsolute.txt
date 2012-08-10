@@ -1,0 +1,16 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\obj\Debug\NancySpike.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\NancySpike.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\NancySpike.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\Nancy.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\obj\Debug\NancySpike.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\obj\Debug\NancySpike.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\Nancy.Hosting.Aspnet.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\Raven.Abstractions.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\Raven.Client.Lightweight.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\Raven.Abstractions.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\Raven.Client.Lightweight.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\Raven.Client.MvcIntegration.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\Raven.Client.MvcIntegration.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\Nancy.ViewEngines.Razor.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\System.Web.Razor.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NancySpike\NancySpike\bin\Nancy.Validation.DataAnnotations.dll
